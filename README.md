@@ -76,16 +76,3 @@ Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md)
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/YourFeature`
 5. Open a Pull Request.
-
----
-
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 💬 Contact
-
-- **Author**: [Vinay-014](https://github.com/Vinay-014)
-- **Issues/Feedback**: [GitHub Issues](https://github.com/Vinay-014/CoderSpace/issues)
