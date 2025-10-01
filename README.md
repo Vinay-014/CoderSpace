@@ -3,6 +3,7 @@
 CoderSpace is a collaborative coding platform designed to streamline project management, enhance developer productivity, and foster teamwork. This repository empowers individuals and teams to manage codebases efficiently, track progress, and contribute seamlessly—all in one place.
 
 
+
 ## 🚀 Features
 
 - **Project Management**: Organize tasks, issues, and milestones to ensure your projects stay on track.
@@ -14,6 +15,7 @@ CoderSpace is a collaborative coding platform designed to streamline project man
 - **Extensibility**: Modular design allows easy integration of new features.
 
 
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Redux, Tailwind CSS
@@ -21,6 +23,7 @@ CoderSpace is a collaborative coding platform designed to streamline project man
 - **Database**: MongoDB
 - **Authentication**: JWT, OAuth
 - **Deployment**: Docker, GitHub Actions
+
 
 
 ## 📦 Installation
@@ -42,6 +45,8 @@ cp .env.example .env
 # Start the development servers
 npm run dev            # Or use separate commands for client/server
 ```
+
+
 
 ## 🧑‍💻 Usage
 
