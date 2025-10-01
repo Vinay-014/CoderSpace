@@ -2,7 +2,6 @@
 
 CoderSpace is a collaborative coding platform designed to streamline project management, enhance developer productivity, and foster teamwork. This repository empowers individuals and teams to manage codebases efficiently, track progress, and contribute seamlessly—all in one place.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ CoderSpace is a collaborative coding platform designed to streamline project man
 - **Notifications**: Stay updated with in-app and email alerts for project activities.
 - **Extensibility**: Modular design allows easy integration of new features.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -24,7 +22,6 @@ CoderSpace is a collaborative coding platform designed to streamline project man
 - **Authentication**: JWT, OAuth
 - **Deployment**: Docker, GitHub Actions
 
----
 
 ## 📦 Installation
 
@@ -46,8 +43,6 @@ cp .env.example .env
 npm run dev            # Or use separate commands for client/server
 ```
 
----
-
 ## 🧑‍💻 Usage
 
 1. **Register/Login** to access your workspace.
@@ -55,24 +50,3 @@ npm run dev            # Or use separate commands for client/server
 3. **Assign Tasks** and track issues using the dashboard.
 4. **Contribute Code** via integrated editor or GitHub pull requests.
 5. **Review Changes** and merge updates securely.
-
----
-
-## 📚 Documentation
-
-- [Getting Started](docs/getting_started.md)
-- [API Reference](docs/api.md)
-- [Contributing Guide](CONTRIBUTING.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md) before submitting pull requests.
-
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a Pull Request.
